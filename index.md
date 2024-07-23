@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 
   <div style="background:   url('https://github.com/tes2sara/sara_tesfamariam/blob/main/IMG_1458.jpg?raw=true') no-repeat center center/cover; padding: 0px 0px; color: white; text-align: center;">
     <div style="display: flex; align-items: center;">
