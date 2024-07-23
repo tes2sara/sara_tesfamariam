@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-![Profile](https://github.com/user-attachments/assets/5c031453-6c37-4e8e-bb5d-9723c7d476f0)
+![Profile](https://github.com/tes2sara/sara_tesfamariam/blob/main/Profile.jpg?raw=true){:height="100px" width="100px"}
 
 ## About
 
