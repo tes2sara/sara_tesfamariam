@@ -23,7 +23,11 @@ title: Home
   </div>
 
 
-<h2 style="text-decoration: underline; font-size: 15px;">Portfolio</h2>
+<h2 style="text-decoration: underline; font-size: 15px;">About</h2>
+
+<div style="text-align: center; margin: 20px 0;">
+    <a href="CV.pdf" download="Sara_CV.pdf" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 18px;">Download CV</a>
+</div>
 
 - [data viz](project1.md)
 
