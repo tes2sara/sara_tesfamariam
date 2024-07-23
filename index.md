@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<div style="background:   url('https://github.com/tes2sara/sara_tesfamariam/blob/main/IMG_1458.jpg?raw=true') no-repeat center center/cover; padding: 40px 20px; color: white; text-align: center;">
+<div style="background:   url('https://github.com/tes2sara/sara_tesfamariam/blob/main/IMG_1458.jpg?raw=true') no-repeat center center/cover; padding: 0px 0px; color: white; text-align: center;">
   <div style="display: flex; align-items: center;">
   <img src="https://github.com/tes2sara/sara_tesfamariam/blob/main/Profile.jpg?raw=true" alt="Profile Picture" style="height: 150px; width:150px; boarder-radius:50%; margin-right: 20px;">
   <div style="display: flex; flex-direction: column; justify-content: center; padding-top: 30px;">
