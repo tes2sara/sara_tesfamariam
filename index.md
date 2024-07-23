@@ -25,8 +25,8 @@ title: Home
 
 <h2 style="text-decoration: underline; font-size: 15px;">About</h2>
 
-<div style="text-align: center; margin: 20px 0;">
-    <a href="CV.pdf" download="Sara_CV.pdf" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 18px;">Download CV</a>
+<div style="text-align: left; margin: 20px 0;">
+    <a href="CV.pdf" download="Sara_CV.pdf" style="padding: 8px 15px; background-color: #b4b4b4; color: white; text-decoration: none; border-radius: 5px; font-size: 12px;">Download CV</a>
 </div>
 
 - [data viz](project1.md)
