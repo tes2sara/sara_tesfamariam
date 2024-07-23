@@ -10,7 +10,7 @@ title: Home
         <li><a href="index.md" style="color: white; text-decoration: none; font-size: 12px;">Home</a></li>
         <li><a href="about.md" style="color: white; text-decoration: none; font-size: 12px;">About</a></li>
         <li><a href="projects.md" style="color: white; text-decoration: none; font-size: 12px;">Projects</a></li>
-        <li><a href="contact.md" style="color: white; text-decoration: none; font-size: 12px;">Contact</a></li>
+       
     </ul>
 </div>
 
