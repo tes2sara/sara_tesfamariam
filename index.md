@@ -10,8 +10,6 @@ title: Home
   </div>
 </div>
 
-![Profile](https://github.com/tes2sara/sara_tesfamariam/blob/main/Profile.jpg?raw=true){:height="150px" width="150px"}
-
 ## About Me
 
 ## Projects
