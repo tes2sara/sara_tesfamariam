@@ -10,6 +10,7 @@ title: Home
     <p style="font-size: 13px; margin: 0;">Aspiring Data Scientist</p>
   </div>
 </div>
+</div>
 
 ## About Me
 
