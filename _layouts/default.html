@@ -22,7 +22,7 @@
     {{ content }}
   </main>
   <footer>
-    <p>Contact: {{ site.email }} | Phone {{ site.tel}} | LinkedIn: {{ site.LinkedIn}} | GitHub: {{ site.GitHub}} </p>
+    <p>Contact: <a href="mailto:{{site.email}}"> {{ site.email }}</a> | Phone {{ site.tel}} | LinkedIn: {{ site.LinkedIn}} | GitHub: {{ site.GitHub}} </p>
     <p>&copy; {{ site.time | date: "%Y" }} {{ site.title}}</p>
   </footer>
 </body>
