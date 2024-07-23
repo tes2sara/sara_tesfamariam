@@ -13,6 +13,14 @@ head {
   padding: 10px 0;
   text-align: center; 
 }
+.head-content{
+    display: flex,
+    align-items: center;
+    
+}
+.profile-info{
+    max-width: 800px;
+}
 main {
   padding: 20px;
   
