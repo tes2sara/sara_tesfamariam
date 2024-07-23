@@ -2,6 +2,17 @@
 layout: default
 title: Home
 ---
+<link rel="stylesheet" href="style.css">
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 20px; background-color: #333; color: white;">
+    <h1 style="margin: 0;">Jane Doe's Portfolio</h1>
+    <ul style="list-style: none; margin: 0; padding: 0; display: flex; gap: 15px;">
+        <li><a href="index.md" style="color: white; text-decoration: none; font-size: 12px;">Home</a></li>
+        <li><a href="about.md" style="color: white; text-decoration: none; font-size: 12px;">About</a></li>
+        <li><a href="projects.md" style="color: white; text-decoration: none; font-size: 12px;">Projects</a></li>
+        <li><a href="contact.md" style="color: white; text-decoration: none; font-size: 12px;">Contact</a></li>
+    </ul>
+</div>
 
   <div style="background:   url('https://github.com/tes2sara/sara_tesfamariam/blob/main/IMG_1458.jpg?raw=true') no-repeat center center/cover; padding: 0px 0px; color: white; text-align: center;">
     <div style="display: flex; align-items: center;">
