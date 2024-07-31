@@ -26,7 +26,7 @@ title: Home
 <p style="text-align: center; font-size: 15px; margin: 0; padding: 50px;">Explore my homepage and <br> discover a recent graduate eager to leverage skills in transforming data into <br> actionable insights and creating intuitive visualizations.</p>
 
 <div style="text-align: center; margin: 20px 0;">
-    <a href="CV.pdf" download="Sara_CV.pdf" style="padding: 8px 15px; background-color: #b4b4b4; color: white; text-decoration: none; border-radius: 5px; font-size: 12px;">Download CV</a>
+    <a href="CV.pdf" download="Sara_CV.pdf" style="padding: 8px 15px; background-color: #b4b4b4; color: white; text-decoration: none; border-radius: 5px; font-size: 20px;">Download CV</a>
 </div>
 
 - [data viz](project1.md)
