@@ -27,7 +27,7 @@ title: Home
     <a href="CV.pdf" download="Sara_CV.pdf" style="padding: 8px 15px; background-color: #b4b4b4; color: white; text-decoration: none; border-radius: 5px; font-size: 20px;">Download CV</a>
 </div>
 <div class="row">
-    <div class="column">- [data viz](project1.md) </div>
+    <div class="column"> [data viz](project1.md) </div>
 </div>
 - [data viz](project1.md)
 
