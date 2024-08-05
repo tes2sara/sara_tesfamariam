@@ -28,11 +28,19 @@ title: Home
 </div>
 <div class="row">
     <div class="column">
-        <li><a href="project1.md" style="color: white; text-decoration: none; font-size: 12px;">Data Visualization</a></li>
+        <li><a href="project1.md" style="color: black; text-decoration: none; font-size: 15px;">Data Visualization</a></li>
+    </div>
+     <div class="column">
+        <li><a href="project1.md" style="color: black; text-decoration: none; font-size: 15px;">Data Visualization</a></li>
+    </div>
+     <div class="column">
+        <li><a href="project1.md" style="color: black; text-decoration: none; font-size: 15px;">Data Visualization</a></li>
     </div>
     
+    
+    
         
-    </div>
+    
 </div>
 - [data viz](project1.md)
 
