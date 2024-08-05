@@ -27,7 +27,7 @@ title: Home
     <a href="CV.pdf" download="Sara_CV.pdf" style="padding: 8px 15px; background-color: #b4b4b4; color: white; text-decoration: none; border-radius: 5px; font-size: 20px;">Download CV</a>
 </div>
 <div class="row">
-    <div class="column">Data Visualisation
+    <div class="column">
         <ul margin:2, padding:0, display: flex, gap: 15px;">
         <li> <a href="project.md"></a></li>
         </ul>
