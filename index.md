@@ -28,9 +28,7 @@ title: Home
 </div>
 <div class="row">
     <div class="column">
-        <ul margin:2, padding:0, display: flex, gap: 15px;">
-        <li> <a href="project.md"></a></li>
-        </ul>
+        <li><a href="project1.md" style="color: white; text-decoration: none; font-size: 12px;">Data Visualization</a></li>
     </div>
     
         
