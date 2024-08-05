@@ -26,21 +26,17 @@ title: Home
 <div style="text-align: center; margin: 20px 0;">
     <a href="CV.pdf" download="Sara_CV.pdf" style="padding: 8px 15px; background-color: #b4b4b4; color: white; text-decoration: none; border-radius: 5px; font-size: 20px;">Download CV</a>
 </div>
-<div class="row">
-    <div class="column">
-        <li><a href="project1.md" style="color: black; text-decoration: none; font-size: 15px;">Data Visualization</a></li>
+
+<div style="display:flex; justify-content: space-around; margin: 20px 0;">
+    <div style="flex:1; padding:10px; text-align:center;">
+        <a href="project1.md" style="color:black; text-decoration:none; font-size: 15px;">Data Visualization</a>
     </div>
-     <div class="column">
-        <li><a href="project1.md" style="color: black; text-decoration: none; font-size: 15px;">Data Visualization</a></li>
+    <div style="flex: 1; padding: 10px; text-align: center;">
+        <a href="project2.md" style="color: black; text-decoration: none; font-size: 15px;">Machine Learning</a>
     </div>
-     <div class="column">
-        <li><a href="project1.md" style="color: black; text-decoration: none; font-size: 15px;">Data Visualization</a></li>
+    <div style="flex: 1; padding: 10px; text-align: center;">
+        <a href="project3.md" style="color: black; text-decoration: none; font-size: 15px;">Data Analysis</a>
     </div>
-    
-    
-    
-        
-    
 </div>
 - [data viz](project1.md)
 
