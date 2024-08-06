@@ -30,7 +30,7 @@ title: Home
 <div style="display:flex; justify-content: space-around; margin: 20px 0;">
     <div style="flex:1; padding:25px; text-align:center;">
         <a href="project1.md" style="color:black; text-decoration:none; font-size: 15px;">Data Visualization</a>
-        <a href="https://github.com/tes2sara/Project-1" style="color:black; text-decoration:none; font-size: 15px;">Project 1</a>
+       <br> <a href="https://github.com/tes2sara/Project-1" style="color:black; text-decoration:none; font-size: 15px;">Project 1</a>
     </div>
     <div style="flex: 1; padding: 25px; text-align: center;">
         <a href="project2.md" style="color: black; text-decoration: none; font-size: 15px;">Machine Learning</a>
