@@ -33,10 +33,10 @@ title: Home
        <br> <a href="https://github.com/tes2sara/Project-1" style="color:black; text-decoration:none; font-size: 15px;">Project 1</a>
     </div>
     <div style="flex: 1; padding: 25px; text-align: center;">
-        <a href="project2.md" style="color: black; text-decoration: none; font-size: 15px;">Machine Learning</a>
+        <p style="color: orange; text-decoration: none; font-size: 15px;">Machine Learning</p>
     </div>
     <div style="flex: 1; padding: 25px; text-align: center;">
-        <a href="project3.md" style="color: black; text-decoration: none; font-size: 15px;">Data Analysis</a>
+        <p style="color: orange; text-overflow:clip; text-decoration: none; font-size: 15px;">Data Analysis</p>
     </div>
 </div>
 
