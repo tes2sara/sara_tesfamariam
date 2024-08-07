@@ -30,7 +30,7 @@ title: Home
 <div style="display:flex; justify-content: space-around; margin: 20px 0;">
     <div style="flex:1; padding:25px; text-align:center;">
         <p style="color:black; border-style:double; font-size: 20px;">Data Visualization</p>
-       <br> <a href="https://github.com/tes2sara/Project-1" style="color:#cc8B65; text-decoration:none; font-size: 18px;">Project 1</a>
+       <br> <a href="https://github.com/tes2sara/Project-1" style="color:#cc8B65; text-decoration:none; font-size: 18px;">Descriptive analysis dashboard</a>
     </div>
     <div style="flex: 1; padding: 25px; text-align: center;">
         <p style="color: #013328; border-style:double; font-size: 20px;">Machine Learning</p>
@@ -40,6 +40,7 @@ title: Home
     </div>
     <div style="flex:1; padding:25px; text-align:center;">
        <p style="color: #013328; border-style:double; font-size:20px;">Object-Oriented Programming</p> 
+        <be> <a href="https://github.com/tes2sara/project-1---OOP" style="color: #cc8B65; font-size: 18px;">Bank System Simulation</a> 
         </div>
 </div>
 
