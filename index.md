@@ -29,14 +29,14 @@ title: Home
 
 <div style="display:flex; justify-content: space-around; margin: 20px 0;">
     <div style="flex:1; padding:25px; text-align:center;">
-        <p style="color:black; text-decoration:none; font-size: 15px;">Data Visualization</p>
+        <p style="color:black; text-decoration:none; font-size: 25px;">Data Visualization</p>
        <br> <a href="https://github.com/tes2sara/Project-1" style="color:black; text-decoration:none; font-size: 15px;">Project 1</a>
     </div>
     <div style="flex: 1; padding: 25px; text-align: center;">
-        <p style="color: #998ec3; text-decoration: none; font-size: 15px;">Machine Learning</p>
+        <p style="color: #998ec3; text-decoration: none; font-size: 25px;">Machine Learning</p>
     </div>
     <div style="flex: 1; padding: 25px; text-align: center;">
-        <p style="color: #998ec3; text-overflow:clip; text-decoration: none; font-size: 15px;">Data Analysis</p>
+        <p style="color: #998ec3; border-style:double; text-decoration: none; font-size: 25px;">Data Analysis</p>
     </div>
 </div>
 
