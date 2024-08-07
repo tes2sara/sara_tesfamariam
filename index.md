@@ -40,8 +40,8 @@ title: Home
     </div>
     <div style="flex:1; padding:25px; text-align:center;">
        <p style="color: #013328; border-style:double; font-size:20px;">Object-Oriented Programming</p> 
-        <be> <a href="https://github.com/tes2sara/project-1---OOP" style="color: #cc8B65; font-size: 18px;">Bank System Simulation</a> 
-        </div>
+        <br> <a href="https://github.com/tes2sara/project-1---OOP" style="color: #cc8B65; font-size: 18px;">Bank System Simulation</a> 
+    </div>
 </div>
 
   
