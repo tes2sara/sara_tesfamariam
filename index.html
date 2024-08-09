@@ -1,41 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta name="veiwpoint" content="width=device-width, initial-scale=1.0">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Home - Sara Tesfamariam</title>
         <link rel="stylesheet" href="style.css">
-        </head>
+    </head>
+    <body>
+        <header>
+            <h1>Sara Tesfamariam</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="projects.html">Projects</a></li>
+                </ul>
+            </nav>
+</header>
+            <div class="background-container">
+                <div class="profile-container">
+                    <img src="images/Profile.jpg" alt="Profile Picture" class="profile-picture">
+                    <div class="profile-details">
+                        <p>Aspiring Data Scientist</p>
+                    </div>
+                </div>
+            </div>
+    
+        <main>
+           
+            <div class="right-center">
+            <p style="text-align: center; color:#100c0D; font-size: 18px; margin: 0; padding: 50px;">Explore my homepage and <br> discover a recent graduate eager to leverage skills in transforming data into <br> actionable insights and creating intuitive visualizations.</p>
+            </div>
 
-        <body>
-            <header>
-                <h1>Sara Tesfamariam</h1>
-                <nav>
-                    <ul>
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="projects.html">Projects</a></li>
-                        </ul>
-                    </nav>
-                </header>
+            <div class="download-container">
+                <a href="CV.pdf" download="Sara_CV.pdf" class="download-button"> Download CV</a>
+            </div>
+        </main>
+        <script>
+            document.getElementById("year").textContent = new Date().getFullYear();
+        </script>
 
-                <div class="header-container"></div>
-
-                <main>
-                    </main>
-
-                    <script>
-                        document.getElementById("year").textContent = new Date().getFullYear();
-                    </script>
-            
-                    <footer>
-                      <p>Contact:<a href="mailto:{tes2sara@gmail.com}"> tes2sara@gmail.com</a> | <a href="tel:+4794482203">944 82 203</a> | <a href="https://www.linkedin.com/in/sara-tesfamariam-b47417199/">LinkedIn</a> | <a href="https://github.com/tes2sara">GitHub</a></p>  
-                    <p>&copy; <span id="year"></span>Sara Tesfamariam</p>
-                    </footer>
-
- 
-            </body>
-        </html> 
-  
+        <footer>
+          <p>Contact:<a href="mailto:{tes2sara@gmail.com}"> tes2sara@gmail.com</a> | <a href="tel:+4794482203">944 82 203</a> | <a href="https://www.linkedin.com/in/sara-tesfamariam-b47417199/">LinkedIn</a> | <a href="https://github.com/tes2sara">GitHub</a></p>  
+        <p>&copy; <span id="year"></span>Sara Tesfamariam</p>
+        </footer>
+    </body>
+    </html>
 
 
 
