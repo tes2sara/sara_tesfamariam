@@ -8,6 +8,7 @@ title: Home
     <h1 style="margin: 0;">Sara Tesfamariam</h1>
     <ul style="list-style: none; margin: 2; padding: 0; display: flex; gap: 15px;">
         <li><a href="index.md" style="color: white; text-decoration: none; font-size: 12px;">Home</a></li>
+        <li> <a href="about.md" style="color:white; tex-decoration:none; font-size: 12px;">About</a></li>
     </ul>
 </div>
 
