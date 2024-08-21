@@ -34,8 +34,8 @@ header h1{
 
 nav ul{
     list-style-type: none;
-    margin: 2;
-    padding: 5px;
+    margin: 0;
+    padding: 0;
     display: flex;
     justify-content: flex-end;
     gap: 15px;
@@ -43,6 +43,7 @@ nav ul{
 
 nav ul li {
     display: inline;
+    padding: 5px
 }
 
 nav ul li a {
@@ -69,7 +70,7 @@ h2{
 }
 
 .background-container {
-    background: url("images/header_background.png") no-repeat center center;
+    background: URL("../project_1_folder/images/header_background.png") no-repeat center center;
     background-size: cover;
     padding: 0px;
     color: white;
