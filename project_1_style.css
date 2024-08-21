@@ -67,3 +67,19 @@ h2{
     color: #333
 }
 
+.small-image {
+    height: 100px;
+    width: 100px;
+
+}
+
+.medium-image {
+    height: 200px;
+    width: 200px;
+}
+
+.larg-image{
+    height: 300px;
+    width: 300px;
+}
+
