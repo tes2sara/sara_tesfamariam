@@ -62,13 +62,13 @@ main{
 }
 
 h2{
-    padding: 70px;
+    padding: 10px;
     text-align: left;
     color: #333
 }
 
 .background-container {
-    background: url("project_1_folder/images/header_background.png") no-repeat center center/cover;
+    background: url("sara_tesfamariam/project_1_folder/images/header_background.png") no-repeat center center/cover;
     padding: 100px;
     color: white;
     text-align: center;
