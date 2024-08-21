@@ -70,9 +70,10 @@ h2{
 }
 
 .background-container {
-    background: URL("header_background.jpg") no-repeat center center;
+    background: url("images/header_background.jpg") no-repeat center center;
     background-size: cover;
     padding: 0px;
     color: white;
+    position: relative;
     text-align: center;
 }
