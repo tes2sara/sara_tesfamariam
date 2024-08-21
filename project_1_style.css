@@ -50,10 +50,11 @@ nav ul li a:hover {
 }  
 
 .secondary-header {
-    background: url("https://github.com/tes2sara/sara_tesfamariam/blob/main/project_1_images/background.jpg") no-repeat center center;
+    background: url("project_1_images/background.jpg") no-repeat center center;
     background-size: cover;
     color: white;
     text-align: center;
+    height: 300px;
 }
 
 main{
