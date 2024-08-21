@@ -35,8 +35,9 @@ header h1{
 nav ul{
     list-style-type: none;
     margin: 2;
-    padding: 0;
-    display: right;
+    padding: 5px;
+    display: flex;
+    justify-content: flex-end;
     gap: 15px;
 }
 
