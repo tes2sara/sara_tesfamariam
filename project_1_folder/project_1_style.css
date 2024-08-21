@@ -2,12 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-  
     background: #f4f4f4 ;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    opacity: 60;
     color: #333;
 }
 
@@ -43,7 +38,8 @@ nav ul{
 
 nav ul li {
     display: inline;
-    padding: 5px
+    padding: 5px;
+    text-decoration: none;
 }
 
 nav ul li a {
@@ -55,11 +51,8 @@ nav ul li a:hover {
     text-decoration: underline;
 }  
 
-
-
-
 main{
-    padding:70px;
+    padding: 70px;
     text-align: justify;
 }
 
