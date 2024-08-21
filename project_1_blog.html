@@ -22,51 +22,53 @@
 <main>  
 
 <h2>Exploring Cancer Mutations with an Interactive Dashboard: Comparing Cell Line and Patient Tissue Samples Using Proportional Analysis and Chi-Square Testing</h2> 
-<p>
-This project aims to compare cell line and patient tissue samples using proportional analysis, statistical analysis(chi-square test) and finally 
-to develop an interactive dashboard that will allow the users to compare cell lines and patient tissue samples based on the mutation type in general and also on mutation type and cancer types.</p>  
+  <p>
+  This project aims to compare cell line and patient tissue samples using proportional analysis, statistical analysis(chi-square test) and finally 
+  to develop an interactive dashboard that will allow the users to compare cell lines and patient tissue samples based on the mutation type in general and also on mutation type and cancer types.</p>  
 
-<p>The proportional analysis will help assess and compare gene mutations in cell lines and patient tissue samples in general and across different cancer types in cell lines and tissue samples.</p>
+  <p>The proportional analysis will help assess and compare gene mutations in cell lines and patient tissue samples in general and across different cancer types in cell lines and tissue samples.</p>
 
-<p>The chi-square test will help identify significant relationships between the two samples' gene mutations and cancer types.<p>
+  <p>The chi-square test will help identify significant relationships between the two samples' gene mutations and cancer types.</p>
 
-<p>
-By creating an interactive dashboard, researchers can identify which gene mutations exist in cell lines and patient tissue samples. 
-</p>
+  <p>
+  By creating an interactive dashboard, researchers can identify which gene mutations exist in cell lines and patient tissue samples. 
+  </p>
 
 <h2>Result</h2>
-The frequency analysis results show that TP53 is the most frequently mutated gene in patient tissue samples, whereas FAT3 missense is frequently mutated in cell line samples. 
-The snapshot below shows the top 20 most mutated genes for both samples.
+  <p>
+  The frequency analysis results show that TP53 is the most frequently mutated gene in patient tissue samples, whereas FAT3 missense is frequently mutated in cell line samples. 
+  The snapshot below shows the top 20 most mutated genes for both samples.
+  </p>
+  <img src="project_1_folder/images/top_20_mutated.png", alt="Top 20 mutated genes in cell line and patient tissue samples.", style="height: 100px; width: 100px">
 
-<img src="project_1_folder/images/top_20_mutated.png", alt="Top 20 mutated genes in cell line and patient tissue samples.", style="height: 100px; width: 100px">
-
-The following dashboard snapshot compares the Tp53 mutation type in both samples. 
+  
+<p>The following dashboard snapshot compares the Tp53 mutation type in both samples. </p>
 
 <img src='project_1_folder/images/comp.png' alt='Interactively switch between mutation types for cell line and tissue samples.', style='height: 100px; width: 100px'>
 
-Further categorization is made using the mutation percentage.
+<p>Further categorization is made using the mutation percentage.</p>
 
 <img src='https://github.com/tes2sara/Project-1/blob/main/furtherComp.png' alt='further analysis',style='height: 100px; width: 100px'>
 
-The dashboard interactively shows the mutational percentage distribution of the mutations based on mutation type and cancer type. 
+<p>The dashboard interactively shows the mutational percentage distribution of the mutations based on mutation type and cancer type.</p> 
 <img src='https://github.com/tes2sara/Project-1/blob/main/further_dis_analysis.png' alt='mutational percentage distribution', style='height: 100px; width: 100px'>
 
-One can make a general observation that:
+<p>One can make a general observation that:
 * Cell line samples have more mutations than the tissue samples
 * In the cell line, the most mutated cancer types are Endometrium and Intestine, whereas, in the patient tissue sample, the most mutated cancer types are Skin (with BRAF missense being the highest mutated
 at 53.09% of the samples have the mutation that is more than 5%), Endometrium (PIK3CA missense at 47.11%)and Stomach (Tp53 missense at 20.38%)
 
-The dashboard allows users to select cancer types from the list of both samples and the mutation type in question. 
+The dashboard allows users to select cancer types from the list of both samples and the mutation type in question. </p>
 
 <img src='https://github.com/tes2sara/Project-1/blob/main/cancer_type_comp.png' alt='comparision usiing cancer type', style='height: 100px; width: 100px'>
 
-The snapshot shows how the user can compare mutation-based cancer type(s) for the two samples. In the example shown, one can infer that BRAF missense mutated in 87.54% of the patient tissue samples have mutation between 16-65%  in the samples tested.
+<p>The snapshot shows how the user can compare mutation-based cancer type(s) for the two samples. In the example shown, one can infer that BRAF missense mutated in 87.54% of the patient tissue samples have mutation between 16-65%  in the samples tested.</p>
 
-The chi-square test result is shown on the second page of the dashboard. The heatmap shows the relationship between the mutation types observed and the cancer types. The darker the color, the higher the association between the mutation and cancer type. 
+<p>The chi-square test result is shown on the second page of the dashboard. The heatmap shows the relationship between the mutation types observed and the cancer types. The darker the color, the higher the association between the mutation and cancer type.</p> 
 
 <img src='https://github.com/tes2sara/Project-1/blob/main/chi_sq.png' alt='chi-square', style='height: 100px; width: 100px'>
 
-For more exploration of the dashboard, please run the [!jupyter notebook](https://github.com/tes2sara/Project-1/blob/main/project1.ipynb)
+<p>For more exploration of the dashboard, please run the [!jupyter notebook](https://github.com/tes2sara/Project-1/blob/main/project1.ipynb)</p>
 </main>
   </body>
 </html>
