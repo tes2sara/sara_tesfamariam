@@ -70,7 +70,7 @@ h2{
 }
 
 .background-container {
-    background: URL("../project_1_folder/images/header_background.png") no-repeat center center;
+    background: URL("images/header_background.png") no-repeat center center;
     background-size: cover;
     padding: 0px;
     color: white;
