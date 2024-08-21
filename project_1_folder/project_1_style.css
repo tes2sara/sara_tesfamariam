@@ -68,8 +68,9 @@ h2{
 }
 
 .background-container {
-    background: url("/project_1_folder/images/header_background.png") no-repeat center center/cover;
-    padding: 100px;
+    background: URL("../images/header_background.png") no-repeat center center;
+    background-size: cover;
+    padding: 0px;
     color: white;
     text-align: center;
 }
