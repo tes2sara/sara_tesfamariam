@@ -3,20 +3,26 @@ body {
     margin: 0;
     padding: 0;
     background: #f4f4f4 ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 60;
     color: #333;
 }
 
 header {
-
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: #333;
     color: white;
-    padding: 10px 0px;
+    padding: 8px 10px;
     top: 0;
     font-size: 14px;
     position: fixed;
     width: 100%;
     z-index: 1000;
-
+    box-sizing:border-box;
    
 }
 
@@ -52,13 +58,16 @@ nav ul li a:hover {
 .secondary-header {
     background: url("project_1_images/background.jpg") no-repeat center center;
     background-size: cover;
+    padding: 100px 20px
     color: white;
     text-align: center;
-    height: 100px;
+    position: relative;
+    overflow: hidden;
+    
 }
 
 main{
-    padding: 70px;
+    padding: 10px;
     text-align: justify;
 }
 
