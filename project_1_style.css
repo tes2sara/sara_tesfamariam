@@ -83,5 +83,23 @@ h2{
 
 }
 
+.project_container{
+    padding: 40px;
+    background-color: #f9f9f9;
+    border-radius: 15px;
+    color: #333;
+    
+    font-size: 13px;
+    margin: 20px 0;
+}
+
+.des-project{
+    background-color: white;
+    
+    align-items: flex-start;
+    padding: 20px 40px;
+    gap:20px;
+}
+
 
 
