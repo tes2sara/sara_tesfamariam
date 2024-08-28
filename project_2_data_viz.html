@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="veiwpoint" content="width=device-width, initial-scale=1.0">
+        <title>Home - Sara Tesfamariam</title>
+        <link rel="stylesheet" href="project_2_data_viz.css">
+    </head>
+        <body>
+            <header>
+                <nav>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="projects.html">Projects</a></li>
+                        </ul>
+                    </nav>
+                </header>
+
+                <div class="header_picture"></div>
+
+                <main>
+                    
+                    
+                        <div class="title-container">
+                            <h1>Supermarket Sales Vizualization.</h1>
+                        </div>
+                        <div class="des-container">
+                            <p>My aim for this project is to analyze the Supermarket 
+                                Sales Dataset to create a dashboard communicating some 
+                                of the supermarket's key performance indicators. The 
+                                interactive dashboard will display weekly key performance 
+                                indicators to get valuable insights into the key sales and 
+                                related figures, product types sold to track inventory 
+                                turnover, customer satisfaction score, and segmentation 
+                                of customers by membership, gender and payment method.
+                            </p>
+
+                            <p>My initial adjustment is to change the date and time feature 
+                                format to DateTime format and add a week number feature to 
+                                make the weekly analysis straightforward. The subsequent 
+                                step I took was to understand how many categories there 
+                                are in the dataset.</p>
+
+                                <div class="image">
+                                <img src="project_2_data_viz_image/category.png" alt="categories in the dataset" title="Categories in the dataset" class="responsive-image">
+                                </div>
+                            <p>After looking at the categories, I inserted a radio item 
+                                that allows the user to choose whether the dashboard displays 
+                                the combined branch results or the results of the individual 
+                                branches separately.  </p>
+
+                                <div class="image">
+                                    <img src="project_2_data_viz_image/compare.png" alt="RadioItems" title="RadioItems" class="responsive-image">
+                                    </div>
+                            <p>Based on the chosen display the dashboard shows the reporting 
+                                period, total sales, gross profit, gross profit percentage, 
+                                cost of goods and average customer rating.</p>
+
+                                <div class="image">
+                                    <img src="project_2_data_viz_image/KPI.png" alt="KPI" title="KPI" class="responsive-image">
+                                    </div>
+
+                            <p>Moreover, the dashboard shows the weekly and daily sales trends 
+                                for the chosen view. This allows users to get a snapshot of sales performance 
+                                for a particular week or day of the week.</p>
+
+                                <div class="image">
+                                    <img src="project_2_data_viz_image/Sales.png" alt="Sales" title="Sales" class="responsive-image">
+                                    </div>
+                            <p>The dashboard also shows sales by product type to show 
+                                the sales generated from the different product 
+                                categories. Showing the contribution of products 
+                                to the sales figure could help to curate products to 
+                                match customers' demands. </p>
+
+                                <div class="image">
+                                    <img src="project_2_data_viz_image/Product_sales.png" alt="Product Sales" title="Product Sales" class="responsive-image">
+                                    </div>
+
+                            <p>Finally, to see the effect of members on sales, I have used 
+                                the members and normal categories to drill further into 
+                                the total payment they made, what kind of payment type 
+                                they used, and their gender type.</p>
+
+                                <div class="image">
+                                    <img src="project_2_data_viz_image/Customer_type.png" alt="Customer Type" title="Customer Type" class="responsive-image">
+                                    </div>
+
+                            <p>For a closer look at the dashboard, please download the 
+                                <a href="https://github.com/tes2sara/project2_data_visualization/blob/main/Supermarket_sales.ipynb"> Jupyter Notebook</a> and run it on your end.</p>
+
+
+
+                               
+
+
+
+
+
+
+
+
+                        
+                           
+
+             
+
+                   
+
+                                
+                                
+                            
+                                
+                            
+                        </div>
+                            
+                
+                    
+
+
+                    
+                </main>
+
+                    
+            
+                    <footer>
+                      <p>Contact:<a href="mailto:{tes2sara@gmail.com}"> tes2sara@gmail.com</a> | <a href="https://github.com/tes2sara">GitHub</a></p>  
+                    <p>&copy; <span id="year"></span>Sara Tesfamariam</p>
+                    </footer>
+                    <script>
+                        document.getElementById("year").textContent = new Date().getFullYear();
+                    </script>
+
+ 
+            </body>
+        </html>
+
